@@ -1,1 +1,1 @@
-# PF2ProjectBinarySearchTree
+# Binary Search Tree Program – Read in a file of pinball machine games and inserts the information into a binary search tree. Has search function to search the binary search tree for machine by name, insert function, delete function, and print function.
